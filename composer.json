@@ -90,5 +90,9 @@
                 "      composer remove drupal/core-project-message"
             ]
         }
+    },
+    "require-dev": {
+        "mglaman/phpstan-drupal": "^1.1",
+        "phpstan/phpstan-deprecation-rules": "^1.0"
     }
 }
